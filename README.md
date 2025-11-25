@@ -16,4 +16,4 @@ This series of files was used to update [BrainPalmSeq](https://brainpalmseq.med.
 
 ## Acknowledgments
 
-We would like to thank the Allen Institute for making this rich dataset publically available and the laboratory animals who made this dataset possible.
+We would like to thank the Allen Institute for making this dataset publically available and the laboratory animals who made this dataset possible.
